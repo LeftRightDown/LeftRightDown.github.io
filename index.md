@@ -1,10 +1,14 @@
+Title: Zachary's Programming Portfolio
+Description: Programing Portfolio
+Image:![Tan_5Characters](https://user-images.githubusercontent.com/82528207/140093489-d0af2968-596a-4cde-8624-7ecdcce9abc9.jpg)
+
 # Welcome to Zachary's Programming Portfolio!
 
 
-## Projects
+# Projects
 Here are some of my works from Programing 101!
 
-### [The Artifact](https://github.com/LeftRightDown/TheArtifactGame)
+## [[The Artifact]](https://github.com/LeftRightDown/TheArtifactGame)
 
 A space adventure game created as a midterm project. 
 
@@ -14,7 +18,7 @@ merchant. When suddenly you receive a distress signal from another ship but upon
 receive no response. This is where your story begins, exploring an unknown ship as you try to
 find any loot before it explodes. 
 
-### [Tip Calculator](https://github.com/LeftRightDown/TipCalculator2.0) 
+## [[Tip Calculator]](https://github.com/LeftRightDown/TipCalculator2.0) 
 
 Console application tip calculator.
 #####Testing
