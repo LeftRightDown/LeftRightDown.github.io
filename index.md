@@ -1,15 +1,10 @@
-Title: Zachary's Programming Portfolio
-Description: Programing Portfolio
-Image:![Tan_5Characters](https://user-images.githubusercontent.com/82528207/140093489-d0af2968-596a-4cde-8624-7ecdcce9abc9.jpg)
-
 # Welcome to Zachary's Programming Portfolio!
-
 
 # Projects
 Here are some of my works from Programing 101!
 
 ## [[The Artifact]](https://github.com/LeftRightDown/TheArtifactGame)
-
+![AdventureGame]()
 A space adventure game created as a midterm project. 
 
 #### *Premise*
