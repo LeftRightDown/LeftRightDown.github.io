@@ -22,7 +22,7 @@ Console application tip calculator.
 Console application that uses arrow keys and the enter key as input.
 >Menu code From [Mike Hadley](https://www.youtube.com/watch?v=qAWhGEPMlS8)
 
-#### **C# Code**
+#### *C# Code*
     
     class Menu
     {
@@ -104,5 +104,5 @@ Console application that uses arrow keys and the enter key as input.
             } 
     } 
    
-   ## Study Application
-  A Console Application that displays term and players much input the correct response.
+## **Study Application**
+A Console Application that displays term and players much input the correct response.
