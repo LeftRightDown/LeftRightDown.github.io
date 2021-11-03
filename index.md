@@ -4,7 +4,7 @@
 ## Projects
 Here are some of my works from Programing 101!
 
-### [The Artifact] (https://github.com/LeftRightDown/TheArtifactGame)
+### [The Artifact](https://github.com/LeftRightDown/TheArtifactGame)
 
 A space adventure game created as a midterm project. 
 
@@ -14,7 +14,7 @@ merchant. When suddenly you receive a distress signal from another ship but upon
 receive no response. This is where your story begins, exploring an unknown ship as you try to
 find any loot before it explodes. 
 
-### [Tip Calculator] (https://github.com/LeftRightDown/TipCalculator2.0) 
+### [Tip Calculator](https://github.com/LeftRightDown/TipCalculator2.0) 
 
 Console application tip calculator.
-#####
+#####Testing
